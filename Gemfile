@@ -13,4 +13,4 @@ group :development do
   gem "simplecov", ">= 0"
 end
 
-gem "httparty"
+gem "httmultiparty"
